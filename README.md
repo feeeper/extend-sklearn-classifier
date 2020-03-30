@@ -1,0 +1,1 @@
+In this jupyter notebook I'm going to built news classifier that split news feed into three classes: "rec.sport.baseball", "talk.politics.guns" and "comp.sys.ibm.pc.hardware". These are default classes from [20 newsgroup dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html). And then I'll extend the model so that it could classify "sci.electronics" news.
